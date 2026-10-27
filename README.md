@@ -74,11 +74,7 @@ npm run start:dev
 ```
 
 A API estará disponível em:
-
+      
 ```text
 http://localhost:3000
 ```
-
-Código-fonte disponível no GitHub:
-
-https://github.com/FelipeGhensevPeres/pro

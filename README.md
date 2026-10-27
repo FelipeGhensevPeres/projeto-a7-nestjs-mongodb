@@ -37,10 +37,10 @@ Exemplo de corpo da requisição:
 
 ```json
 {
-  "descricao": "Conta de Luz",
-  "valor": 150,
+  "descricao": "Boleto Mackenzie",
+  "valor": 650,
   "tipo": "despesa",
-  "categoria": "Moradia",
+  "categoria": "Educação",
   "consumoConsciente": true
 }
 ```
